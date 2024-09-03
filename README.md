@@ -1,7 +1,8 @@
-[![MasterHead](https://www.tumblr.com/valenberg/142420848259/animated-banner-artwork-for-the-great-rolly)
+![2150693725 (1)](https://github.com/user-attachments/assets/dfd8ab3d-f123-4519-91ad-12f090715197)
+
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">An inspiring full-stack developer from Norway</h3>
-(img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg")
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thewificoder&label=Views&color=b40e0e&style=flat" alt="thewificoder" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **Yoaoa003@icloud.com**
 
-- ⚡ Fun fact **Im champ 3 in rocket leauge**
+- ⚡ Fun fact **I am champ 3 in rocket leauge**
 
 
 
