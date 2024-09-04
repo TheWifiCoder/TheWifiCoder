@@ -1,12 +1,10 @@
 ![2150693725 (1)](https://github.com/user-attachments/assets/dfd8ab3d-f123-4519-91ad-12f090715197)
 
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">An inspiring full-stack developer from Norway</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
+<h3 align="center">An aspairing full-stack developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thewificoder&label=Views&color=b40e0e&style=flat" alt="thewificoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewificoder" alt="thewificoder" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheWifiCoder&label=Views&color=b40e0e&style=flat" alt="thewificoder" /> </p>
 
 - 🌱 I’m currently learning **python and sql**
 
@@ -14,6 +12,7 @@
 
 - ⚡ Fun fact **I am champ 3 in rocket leauge**
 
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 
 <h3 align="left">Languages and Tools:</h3>
