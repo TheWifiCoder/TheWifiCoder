@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheWifiCoder&label=Views&color=b40e0e&style=flat" alt="thewificoder" /> </p>
 
-- 🌱 I’m currently learning **python and sql**
+- 🌱 I’m currently learning **Typescript and react**
 
 - 📫 How to reach me **Yoaoa003@icloud.com**
 
